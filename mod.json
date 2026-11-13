@@ -1,0 +1,27 @@
+{
+	"name" : "Faroese translation",
+	"description" : "Faroese translation of Heroes of Might and Magic III: Complete Edition",
+	"version" : "1.0.0",
+	"author" : "Marjus",
+	"contact" : "vcmi.eu",
+	"language" : "faroese",
+	"modType" : "Translation",
+	"compatibility" : {
+		"min" : "1.8.0"
+	},
+	"changelog" : {
+		"1.0.0" : [
+			"Initial release"
+		]
+	},
+	"faroese" : {
+		"name" : "Føroysk umseting",
+		"description" : "Føroysk umseting av Heroes of Might and Magic III: Complete Edition"
+	},
+	"translations" : [
+		"config/vcmi-faroese/game.json",
+		"config/vcmi-faroese/maps.json",
+		"config/vcmi-faroese/campaigns.json",
+		"config/vcmi-faroese/chronicles.json"
+	]
+}
